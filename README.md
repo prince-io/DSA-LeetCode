@@ -15,6 +15,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/prince-io/DSA-LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0735-asteroid-collision](https://github.com/prince-io/DSA-LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/prince-io/DSA-LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/prince-io/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/prince-io/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-io/DSA-LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/prince-io/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-io/DSA-LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -83,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/prince-io/DSA-LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/prince-io/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/prince-io/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-io/DSA-LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
