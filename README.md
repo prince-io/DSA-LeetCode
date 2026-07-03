@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/prince-io/DSA-LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-io/DSA-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/prince-io/DSA-LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/prince-io/DSA-LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/prince-io/DSA-LeetCode/tree/main/0735-asteroid-collision/) | Medium |
