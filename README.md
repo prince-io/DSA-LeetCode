@@ -13,6 +13,7 @@
 | [0503-next-greater-element-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/prince-io/DSA-LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/prince-io/DSA-LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-io/DSA-LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-io/DSA-LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +74,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/prince-io/DSA-LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-io/DSA-LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
