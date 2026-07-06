@@ -34,6 +34,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prince-io/DSA-LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/prince-io/DSA-LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/prince-io/DSA-LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -63,6 +64,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prince-io/DSA-LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/prince-io/DSA-LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -163,6 +165,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prince-io/DSA-LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/prince-io/DSA-LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
