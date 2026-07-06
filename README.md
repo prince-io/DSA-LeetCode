@@ -38,6 +38,7 @@
 | [0015-3sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/prince-io/DSA-LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/prince-io/DSA-LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/prince-io/DSA-LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-io/DSA-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/prince-io/DSA-LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -160,5 +161,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/prince-io/DSA-LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
