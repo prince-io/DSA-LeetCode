@@ -38,6 +38,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/prince-io/DSA-LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/prince-io/DSA-LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/prince-io/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/prince-io/DSA-LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1314-matrix-block-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-io/DSA-LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -72,6 +73,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/prince-io/DSA-LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/prince-io/DSA-LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/prince-io/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/prince-io/DSA-LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
