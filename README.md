@@ -130,6 +130,7 @@
 | [0901-online-stock-span](https://github.com/prince-io/DSA-LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-io/DSA-LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/prince-io/DSA-LeetCode/tree/main/1544-make-the-string-great/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-io/DSA-LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/prince-io/DSA-LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/prince-io/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-io/DSA-LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +257,7 @@
 | [0844-backspace-string-compare](https://github.com/prince-io/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-io/DSA-LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/prince-io/DSA-LeetCode/tree/main/1544-make-the-string-great/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-io/DSA-LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
