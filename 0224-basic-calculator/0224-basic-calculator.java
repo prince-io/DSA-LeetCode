@@ -1,7 +1,6 @@
 class Solution {
     public int calculate(String s) {
         int[] ans = getAns(s, 0);
-
         return ans[0];
     }
 
@@ -21,7 +20,6 @@ class Solution {
 
             if (ch == '(') {
                 int[] pair = getAns(s, i+1);
-
                 num = pair[0];
                 i = pair[1];
             }
@@ -31,8 +29,8 @@ class Solution {
             if ((!Character.isDigit(ch) && ch != ' ' && ch != '(' && ch != ')') || i == n-1 || s.charAt(i+1) == ')') {
                 if (op == '+') stk.push(num);
                 else if (op == '-') stk.push(-num);
-                // else if (op == '*') stk.push(stk.pop() * num);
-                // else if (op == '/') stk.push(stk.pop() / num);
+                else if (op == '*') stk.push(stk.pop() * num);
+                else if (op == '/') stk.push(stk.pop() / num);
 
                 num = 0;
                 op = ch;
