@@ -1,5 +1,4 @@
 class MyQueue {
-
     Stack<Integer> main;
     Stack<Integer> side;
 
@@ -14,26 +13,16 @@ class MyQueue {
     
     public int pop() {
         while (!main.isEmpty()) side.push(main.pop());
-
         int x = side.pop();
-
         while (!side.isEmpty()) main.push(side.pop());
-
         return x;
-
-
     }
     
     public int peek() {
-
         while (!main.isEmpty()) side.push(main.pop());
-
         int x = side.peek();
-
         while (!side.isEmpty()) main.push(side.pop());
-
         return x;
-        
     }
     
     public boolean empty() {
