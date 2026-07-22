@@ -13,9 +13,7 @@ class Solution {
 
                 else {
                     int count = 0;
-                    while (!(stk.peek() instanceof Character && (Character) stk.peek() == '(')) {
-    count += (Integer) stk.pop();
-}
+                    while (!(stk.peek() instanceof Character && (Character) stk.peek() == '(')) count += (Integer) stk.pop();
                     stk.pop();
                     stk.push(count * 2);
                 }
@@ -23,10 +21,8 @@ class Solution {
         }
 
         int ans = 0;
-
         while (!stk.isEmpty()) ans += (Integer) stk.pop();
-
-
+        
         return ans;
     }
 }
