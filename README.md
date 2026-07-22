@@ -44,6 +44,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/prince-io/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prince-io/DSA-LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1314-matrix-block-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/prince-io/DSA-LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prince-io/DSA-LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/prince-io/DSA-LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -138,6 +139,7 @@
 | [0901-online-stock-span](https://github.com/prince-io/DSA-LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince-io/DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-io/DSA-LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/prince-io/DSA-LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/prince-io/DSA-LeetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-io/DSA-LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Monotonic Stack
@@ -172,6 +174,7 @@
 | [0225-implement-stack-using-queues](https://github.com/prince-io/DSA-LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/prince-io/DSA-LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/prince-io/DSA-LeetCode/tree/main/0901-online-stock-span/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/prince-io/DSA-LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
