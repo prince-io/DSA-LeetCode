@@ -99,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/prince-io/DSA-LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0402-remove-k-digits](https://github.com/prince-io/DSA-LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince-io/DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -130,6 +131,7 @@
 | [0227-basic-calculator-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/prince-io/DSA-LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0394-decode-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/prince-io/DSA-LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/prince-io/DSA-LeetCode/tree/main/0735-asteroid-collision/) | Medium |
@@ -148,6 +150,7 @@
 | [0042-trapping-rain-water](https://github.com/prince-io/DSA-LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/prince-io/DSA-LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/prince-io/DSA-LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0402-remove-k-digits](https://github.com/prince-io/DSA-LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/prince-io/DSA-LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -269,6 +272,7 @@
 | [0227-basic-calculator-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0344-reverse-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/prince-io/DSA-LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prince-io/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
