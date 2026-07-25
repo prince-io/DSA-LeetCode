@@ -25,6 +25,7 @@
 | [0239-sliding-window-maximum](https://github.com/prince-io/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/prince-io/DSA-LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0321-create-maximum-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/prince-io/DSA-LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -62,6 +63,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-io/DSA-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/prince-io/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/prince-io/DSA-LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0321-create-maximum-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prince-io/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -100,6 +102,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/prince-io/DSA-LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/prince-io/DSA-LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0321-create-maximum-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/prince-io/DSA-LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -133,6 +136,7 @@
 | [0227-basic-calculator-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/prince-io/DSA-LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/prince-io/DSA-LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0321-create-maximum-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0394-decode-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/prince-io/DSA-LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -156,6 +160,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/prince-io/DSA-LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/prince-io/DSA-LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/prince-io/DSA-LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0321-create-maximum-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/prince-io/DSA-LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
