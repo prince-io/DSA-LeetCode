@@ -43,9 +43,6 @@ class Solution {
             }
         }
 
-        // for (int i = 0; i < budget; i++)
-        //     stk.pop();
-
         for (int i = k - 1; i >= 0; i--)
             ans[i] = stk.pop();
 
