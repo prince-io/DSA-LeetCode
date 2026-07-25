@@ -24,7 +24,6 @@ class Solution {
         int n = arr.length;
         int[] ans = new int[k];
         int budget = n - k;
-        // Stack<Integer> stk = new Stack<>();
         Deque<Integer> stk = new ArrayDeque<>();
 
         for (int i : arr) {
@@ -44,8 +43,8 @@ class Solution {
             }
         }
 
-        for (int i = 0; i < budget; i++)
-            stk.pop();
+        // for (int i = 0; i < budget; i++)
+        //     stk.pop();
 
         for (int i = k - 1; i >= 0; i--)
             ans[i] = stk.pop();
