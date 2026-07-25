@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/prince-io/DSA-LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/prince-io/DSA-LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0063-unique-paths-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/prince-io/DSA-LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/prince-io/DSA-LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/prince-io/DSA-LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -116,6 +117,7 @@
 | [0042-trapping-rain-water](https://github.com/prince-io/DSA-LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/prince-io/DSA-LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/prince-io/DSA-LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/prince-io/DSA-LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -254,6 +256,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/prince-io/DSA-LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/prince-io/DSA-LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
