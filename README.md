@@ -258,6 +258,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/prince-io/DSA-LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/prince-io/DSA-LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prince-io/DSA-LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/prince-io/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -301,6 +302,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/prince-io/DSA-LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0224-basic-calculator](https://github.com/prince-io/DSA-LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
