@@ -8,7 +8,6 @@ class Solution {
         }
 
         return getAns(x, N);
-
     }
 
     public double getAns(double x, long n) {
