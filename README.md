@@ -317,6 +317,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/prince-io/DSA-LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/prince-io/DSA-LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -329,4 +330,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/prince-io/DSA-LeetCode/tree/main/0062-unique-paths/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
