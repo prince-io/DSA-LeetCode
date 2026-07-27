@@ -32,6 +32,7 @@
 | [0321-create-maximum-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/prince-io/DSA-LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0494-target-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -127,6 +128,7 @@
 | [0152-maximum-product-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/prince-io/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0494-target-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/prince-io/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -341,6 +343,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/prince-io/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
+| [0494-target-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0494-target-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
