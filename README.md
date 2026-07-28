@@ -62,6 +62,7 @@
 | [0005-longest-palindromic-substring](https://github.com/prince-io/DSA-LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/prince-io/DSA-LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/prince-io/DSA-LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/prince-io/DSA-LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/prince-io/DSA-LeetCode/tree/main/0125-valid-palindrome/) | Easy |
@@ -337,6 +338,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/prince-io/DSA-LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Backtracking
