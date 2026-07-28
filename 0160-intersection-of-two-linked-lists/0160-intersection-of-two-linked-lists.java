@@ -31,29 +31,32 @@
 //     }
 // }
 
-
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode a = headA, b = headB;
-
         boolean alist = true, blist = true;
 
         while (a != b) {
             a = a.next;
             if (a == null) {
-                if (alist) a = headB;
-                else a = headA;
+                if (alist)
+                    a = headB;
+                else
+                    a = headA;
                 alist = !alist;
             }
 
             b = b.next;
             if (b == null) {
-                if (blist) b = headA;
-                else b = headB;
+                if (blist)
+                    b = headA;
+                else
+                    b = headB;
                 blist = !blist;
             }
 
-            if (a == headA && b == headB) return null;
+            if (a == headA && b == headB)
+                return null;
         }
 
         return a;
