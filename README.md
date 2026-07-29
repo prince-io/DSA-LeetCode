@@ -67,6 +67,7 @@
 | [0075-sort-colors](https://github.com/prince-io/DSA-LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/prince-io/DSA-LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/prince-io/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince-io/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-io/DSA-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/prince-io/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -190,6 +191,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prince-io/DSA-LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/prince-io/DSA-LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/prince-io/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince-io/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -347,6 +349,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/prince-io/DSA-LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/prince-io/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince-io/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
