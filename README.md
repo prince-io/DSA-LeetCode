@@ -76,6 +76,7 @@
 | [0647-palindromic-substrings](https://github.com/prince-io/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/prince-io/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,6 +348,7 @@
 | [0206-reverse-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0707-design-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
