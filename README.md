@@ -203,6 +203,7 @@
 | [0155-min-stack](https://github.com/prince-io/DSA-LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/prince-io/DSA-LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/prince-io/DSA-LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0707-design-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/prince-io/DSA-LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/prince-io/DSA-LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Data Stream
@@ -344,6 +345,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/prince-io/DSA-LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince-io/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0707-design-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0707-design-linked-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
