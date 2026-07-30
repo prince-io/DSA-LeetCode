@@ -14,29 +14,26 @@ class Solution {
         ListNode a = l1;
         ListNode b = l2;
 
-        int sum = 0;
-        int carry = 0;
-
         ListNode curr = new ListNode();
         ListNode prev = null;
         ListNode head = curr;
 
+        int sum = 0;
+        int carry = 0;
+
         while (a != null || b != null) {
             sum = carry;
+
             if (a != null)
                 sum += a.val;
             if (b != null)
                 sum += b.val;
-            if (sum >= 10) {
-                carry = sum / 10;
-                sum = sum % 10;
-            } else
-                carry = 0;
+
+            carry = sum / 10;
+            sum %= 10;
 
             curr.val = sum;
-
-            ListNode node = new ListNode();
-            curr.next = node;
+            curr.next = new ListNode();
             prev = curr;
             curr = curr.next;
 
