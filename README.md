@@ -17,6 +17,7 @@
 | [0078-subsets](https://github.com/prince-io/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/prince-io/DSA-LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/prince-io/DSA-LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prince-io/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prince-io/DSA-LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prince-io/DSA-LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -130,6 +131,7 @@
 | [0063-unique-paths-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/prince-io/DSA-LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/prince-io/DSA-LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prince-io/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/prince-io/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
