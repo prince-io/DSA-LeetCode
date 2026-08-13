@@ -72,6 +72,7 @@
 | [0125-valid-palindrome](https://github.com/prince-io/DSA-LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/prince-io/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince-io/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-io/DSA-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/prince-io/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -113,6 +114,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/prince-io/DSA-LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0148-sort-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0148-sort-list/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/prince-io/DSA-LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -308,6 +310,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prince-io/DSA-LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## String
@@ -371,6 +374,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/prince-io/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince-io/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -387,4 +391,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/prince-io/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
