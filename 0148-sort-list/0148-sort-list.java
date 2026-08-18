@@ -21,29 +21,54 @@ class Solution {
         if (head.next == null)
             return head;
 
-        ListNode curr = head;
-        ListNode nxt = curr.next;
-        curr.next = null;
+        ListNode prev = null;
+        ListNode slow = head;
+        ListNode fast = head;
 
-        return merge(curr, sort(nxt));
+        while (fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        prev.next = null;
+
+        ListNode left = sort(head);
+        ListNode right = sort(slow);
+
+        return merge(left, right);
     }
 
     public static ListNode merge(ListNode x, ListNode y) {
-        ListNode head = x.val <= y.val ? x : y;
-        ListNode prev = null;
+        ListNode head;
 
-        while (y != null) {
-            if (x.val <= y.val)
-                break;
-
-            prev = y;
+        if (x.val <= y.val) {
+            head = x;
+            x = x.next;
+        } else {
+            head = y;
             y = y.next;
         }
 
-        if (prev != null)
-            prev.next = x;
+        ListNode prev = head;
 
-        x.next = y;
+        while (x != null && y != null) {
+            if (x.val <= y.val) {
+                prev.next = x;
+                prev = prev.next;
+                x = x.next;
+            } else {
+                prev.next = y;
+                prev = prev.next;
+                y = y.next;
+            }
+
+        }
+
+        if (x != null)
+            prev.next = x;
+        if (y != null)
+            prev.next = y;
 
         return head;
     }
