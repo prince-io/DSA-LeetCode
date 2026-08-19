@@ -18,10 +18,19 @@ class Solution {
         if (n == 1)
             return lists[0];
 
-        for (int i = 1; i < n; i++)
-            lists[0] = merge(lists[0], lists[i]);
+        return solve(lists, 0, n - 1);
+    }
 
-        return lists[0];
+    public static ListNode solve(ListNode[] lists, int left, int right) {
+        if (left == right)
+            return lists[left];
+
+        int mid = left + (right - left) / 2;
+
+        ListNode l1 = solve(lists, left, mid);
+        ListNode l2 = solve(lists, mid + 1, right);
+
+        return merge(l1, l2);
     }
 
     public static ListNode merge(ListNode main, ListNode arr) {
