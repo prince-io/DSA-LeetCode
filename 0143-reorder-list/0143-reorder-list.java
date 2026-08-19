@@ -11,37 +11,45 @@
 
 class Solution {
     public void reorderList(ListNode head) {
-        int n = 0;
-
-        ArrayList<ListNode> arr = new ArrayList<>();
-
-        ListNode curr = head;
-
-        while (curr != null) {
-            n++;
-            ListNode temp = curr;
-            curr = curr.next;
-            temp.next = null;
-            arr.add(temp);
-        }
-
-        if (n == 1) return;
-        if (n == 2) {
-            arr.get(0).next = arr.get(1);
+        if (head.next == null)
             return;
+
+        ListNode prev = head;
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        int i = 1, j = n-2, k = n-1;
-        arr.get(0).next = arr.get(n-1);
+        prev.next = null;
+        prev = null;
 
-        while (i < j) {
-            arr.get(i).next = arr.get(j);
-            arr.get(k).next = arr.get(i);
-            i++;
-            j--;
-            k--;
+        while (slow != null) {
+            ListNode temp = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = temp;
         }
 
-        if (i == j) arr.get(k).next = arr.get(j);
+        ListNode x = head.next, y = prev;
+        ListNode ans = head;
+
+        while (x != null && y != null) {
+            ans.next = y;
+            ans = ans.next;
+            y = y.next;
+
+            ans.next = x;
+            ans = ans.next;
+            x = x.next;
+        }
+
+        if (x != null)
+            ans.next = x;
+        if (y != null)
+            ans.next = y;
     }
 }
