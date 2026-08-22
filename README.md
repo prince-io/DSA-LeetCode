@@ -173,6 +173,7 @@
 | [0321-create-maximum-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0394-decode-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/prince-io/DSA-LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/prince-io/DSA-LeetCode/tree/main/0735-asteroid-collision/) | Medium |
@@ -308,6 +309,7 @@
 | [0189-rotate-array](https://github.com/prince-io/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/prince-io/DSA-LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Divide and Conquer
@@ -392,6 +394,7 @@
 | [0206-reverse-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0707-design-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
