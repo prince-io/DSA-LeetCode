@@ -52,6 +52,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/prince-io/DSA-LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/prince-io/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prince-io/DSA-LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1314-matrix-block-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/prince-io/DSA-LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prince-io/DSA-LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -182,6 +183,7 @@
 | [0856-score-of-parentheses](https://github.com/prince-io/DSA-LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/prince-io/DSA-LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince-io/DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-io/DSA-LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prince-io/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prince-io/DSA-LeetCode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -202,6 +204,7 @@
 | [0503-next-greater-element-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/prince-io/DSA-LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/prince-io/DSA-LeetCode/tree/main/0901-online-stock-span/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prince-io/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -397,6 +400,7 @@
 | [0445-add-two-numbers-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0707-design-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
