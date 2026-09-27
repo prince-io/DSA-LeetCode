@@ -220,6 +220,7 @@
 | [0146-lru-cache](https://github.com/prince-io/DSA-LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince-io/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0460-lfu-cache](https://github.com/prince-io/DSA-LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prince-io/DSA-LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -235,6 +236,7 @@
 | [0155-min-stack](https://github.com/prince-io/DSA-LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/prince-io/DSA-LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/prince-io/DSA-LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0460-lfu-cache](https://github.com/prince-io/DSA-LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0707-design-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/prince-io/DSA-LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/prince-io/DSA-LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
@@ -406,6 +408,7 @@
 | [0234-palindrome-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0460-lfu-cache](https://github.com/prince-io/DSA-LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0707-design-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -433,4 +436,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/prince-io/DSA-LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/prince-io/DSA-LeetCode/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
