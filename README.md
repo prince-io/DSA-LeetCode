@@ -61,6 +61,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/prince-io/DSA-LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/prince-io/DSA-LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/prince-io/DSA-LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-io/DSA-LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -253,6 +254,7 @@
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/prince-io/DSA-LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/prince-io/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/prince-io/DSA-LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-io/DSA-LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -291,6 +293,7 @@
 | [0622-design-circular-queue](https://github.com/prince-io/DSA-LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/prince-io/DSA-LeetCode/tree/main/0641-design-circular-deque/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/prince-io/DSA-LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
