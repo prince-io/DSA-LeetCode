@@ -60,6 +60,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prince-io/DSA-LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/prince-io/DSA-LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prince-io/DSA-LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/prince-io/DSA-LeetCode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/prince-io/DSA-LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-io/DSA-LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -254,6 +255,7 @@
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/prince-io/DSA-LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/prince-io/DSA-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prince-io/DSA-LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/prince-io/DSA-LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-io/DSA-LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Sliding Window
@@ -293,6 +295,7 @@
 | [0622-design-circular-queue](https://github.com/prince-io/DSA-LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/prince-io/DSA-LeetCode/tree/main/0641-design-circular-deque/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prince-io/DSA-LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/prince-io/DSA-LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -331,6 +334,7 @@
 | [0445-add-two-numbers-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prince-io/DSA-LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +386,7 @@
 | [0234-palindrome-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prince-io/DSA-LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
