@@ -41,6 +41,7 @@
 | [0523-continuous-subarray-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prince-io/DSA-LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/prince-io/DSA-LeetCode/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/prince-io/DSA-LeetCode/tree/main/0641-design-circular-deque/) | Medium |
 | [0704-binary-search](https://github.com/prince-io/DSA-LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/prince-io/DSA-LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/prince-io/DSA-LeetCode/tree/main/0724-find-pivot-index/) | Easy |
@@ -239,6 +240,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/prince-io/DSA-LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0460-lfu-cache](https://github.com/prince-io/DSA-LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0622-design-circular-queue](https://github.com/prince-io/DSA-LeetCode/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/prince-io/DSA-LeetCode/tree/main/0641-design-circular-deque/) | Medium |
 | [0707-design-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/prince-io/DSA-LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/prince-io/DSA-LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
@@ -287,6 +289,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/prince-io/DSA-LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/prince-io/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/prince-io/DSA-LeetCode/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/prince-io/DSA-LeetCode/tree/main/0641-design-circular-deque/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -414,6 +417,7 @@
 | [0445-add-two-numbers-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0460-lfu-cache](https://github.com/prince-io/DSA-LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0622-design-circular-queue](https://github.com/prince-io/DSA-LeetCode/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/prince-io/DSA-LeetCode/tree/main/0641-design-circular-deque/) | Medium |
 | [0707-design-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
