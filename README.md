@@ -438,6 +438,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/prince-io/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
+| [0113-path-sum-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0494-target-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0494-target-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -468,6 +469,7 @@
 | [0110-balanced-binary-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/prince-io/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prince-io/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -483,6 +485,7 @@
 | [0110-balanced-binary-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/prince-io/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prince-io/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -497,6 +500,7 @@
 | [0110-balanced-binary-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/prince-io/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prince-io/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
