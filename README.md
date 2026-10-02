@@ -471,6 +471,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/prince-io/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,6 +484,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/prince-io/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prince-io/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -495,6 +497,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/prince-io/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prince-io/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -506,4 +509,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/prince-io/DSA-LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
