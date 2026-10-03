@@ -57,6 +57,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/prince-io/DSA-LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1314-matrix-block-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/prince-io/DSA-LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1470-shuffle-the-array](https://github.com/prince-io/DSA-LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prince-io/DSA-LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/prince-io/DSA-LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
