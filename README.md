@@ -346,6 +346,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/prince-io/DSA-LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0191-number-of-1-bits](https://github.com/prince-io/DSA-LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince-io/DSA-LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## String
@@ -445,6 +446,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/prince-io/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
+| [0191-number-of-1-bits](https://github.com/prince-io/DSA-LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
