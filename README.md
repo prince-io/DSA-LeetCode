@@ -33,6 +33,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/prince-io/DSA-LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0321-create-maximum-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0321-create-maximum-number/) | Hard |
+| [0349-intersection-of-two-arrays](https://github.com/prince-io/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/prince-io/DSA-LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0494-target-sum/) | Medium |
@@ -89,6 +90,7 @@
 | [0283-move-zeroes](https://github.com/prince-io/DSA-LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0321-create-maximum-number](https://github.com/prince-io/DSA-LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/prince-io/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prince-io/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -109,6 +111,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-io/DSA-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/prince-io/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/prince-io/DSA-LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/prince-io/DSA-LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -124,6 +127,7 @@
 | [0015-3sum](https://github.com/prince-io/DSA-LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/prince-io/DSA-LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/prince-io/DSA-LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/prince-io/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/prince-io/DSA-LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -228,6 +232,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/prince-io/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/prince-io/DSA-LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince-io/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/prince-io/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prince-io/DSA-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0460-lfu-cache](https://github.com/prince-io/DSA-LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/prince-io/DSA-LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
